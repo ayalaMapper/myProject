@@ -1,6 +1,9 @@
 span{
   margin: 5px;
 }
+img{
+  width:500px;
+}
 .bor{
   border: 3px solid gray;
   margin: 20px;
